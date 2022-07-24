@@ -1,0 +1,757 @@
+@media(max-width: 400px){
+    .spider-section .spider .inner span {
+        display:none;
+    }
+    .spider-section .spider .inner {
+    width: 41px !important;
+}
+.spider-section .spider .left-bottom {
+    left: 90px !important;
+    bottom: -22px !important;
+}
+.spider-section .spider .right-bottom {
+    right: 90px !important;
+    bottom: -22px !important;
+}
+.spider-section .spider .right-top {
+    right: 100px !important;
+}
+.spider-section .spider .left-top {
+    left: 100px!important;
+    top: 19px !important;
+}
+.navbar-nav {
+    background-color: #ebc5c5;
+}
+.nav-section .nav-item a {
+    color: #e51919!important;
+    font-size: 12px;
+}
+.nav-link {
+    display: inline-block;
+    padding:0px;
+}
+.nav-section .btn-custom, .nav-section .nav-item a:hover {
+     background-color:transparent;
+    color: white!important;
+     border-radius: 0px;
+}
+.top-header .nav-item a {
+    
+    padding: 5px;
+}
+
+.iphone-section .container .col-sm-7 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width:575.99px){
+		.top-header p {
+		text-align: center;
+	}
+    .top-header .nav-item a {
+    
+    padding: 5px;
+}
+.iphone-section .container .col-sm-7 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+
+
+	.justify-content-end {
+    justify-content: center!important;
+}
+	.top-header .nav-item a {
+		font-size:10px;
+	}
+	.top-header p {
+		font-size:10px;
+	}
+		.banner-section .banner h1 {
+		font-size: 26px;
+	}
+	.banner-section .banner .qr {
+   display: none;
+}
+.banner-section .banner .btn-m {
+	font-size: 10px;
+}
+.service-section .service {
+	width: 300px;
+    padding: 8px 16px;
+    margin: auto;
+    margin-bottom: 15px !important;
+}
+.service-section .service h3{
+font-size: 20px;
+}
+.service-section .service p{
+	font-size: 14px;
+}
+.service-section h2 {
+    font-size: 22px;
+}
+.service-section .pp {
+    font-size: 13px;
+    max-width: 377px;
+}
+.bitcoin-section .bitcoin {
+    padding: 10px 20px;
+    width: 350px;
+    margin: auto;
+}
+.iphone-section .iphone1 .ww{
+	width:300px!important;
+	height:300px;
+
+	margin:auto;
+
+}
+.iphone-section .iphone1 {
+	text-align: center;
+}
+
+.iphone-section .iphone2 span {
+   
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.py-3 {
+	padding: 5px 0px !important;
+}
+.iphone-section .iphone2 h2 {
+    font-size: 11px;
+    margin-bottom:0px;
+    
+}
+.iphone-section .iphone2 .ni .sp {
+    margin-top: 3px;
+    margin-bottom: 3px;
+    display: inline-block;
+    width: 40px;
+    
+}
+.iphone-section .iphone2 .sid{
+	text-align: center;
+}
+.iphone-section .iphone2 .sid h3{
+	 font-size: 9px;
+    margin-bottom: 2px;
+
+
+
+}
+.iphone-section .iphone2 .sid p{
+	margin-bottom:0;
+	    font-size: 7px;
+}
+.iphone-section .iphone1 .bcd {
+    
+    width: 190px;
+   
+}
+.iphone-section .iphone2 {
+	margin-top:8px;
+	    
+}
+.iphone-section .iphone2 h2 {
+	text-align: center;
+}
+.iphone-section .iphone2 .ni .sp {
+
+    display: block;
+    width: 40px;
+    margin:auto;
+     margin-top: 10px;
+    margin-bottom: 10px;
+}
+.five-section h2{
+	font-size: 18px;
+}
+.five-section p{
+	font-size: 11px;
+}
+
+
+
+
+.spider-section .spider .inner span {
+   
+    width: 25px;
+    height: 25px;
+    }
+    .spider-section .spider .inner span i {
+  
+    line-height: 25px;
+}
+.spider-section .spider .left-top{
+	    left: 130px;
+}
+.spider-section .spider .right-top{
+	    right: 130px;
+}
+.spider-section .spider .img-fluid {
+	width:40%;
+}
+.spider-section .spider .left-bottom {
+	left:140px;
+
+    bottom: -22px;
+}
+.spider-section .spider .right-bottom {
+	
+	    right: 140px;
+    bottom: -22px;
+}
+.spider-section .spider .right-middle {
+	right:70px;
+}
+.spider-section .spider .left-middle {
+	left:70px;
+}
+.spider-section .spider .inner p {
+   
+    font-size: 11px;
+}
+.spider-section .spider .inner span i {
+  
+    font-size: 12px;
+}
+.spider-section .spider .inner {
+    width: 100px;
+}
+.team-section h4 {
+    font-size: 17px;
+}
+.team-section .pp {
+    font-size: 12px;
+    width: 309px;
+    margin: auto;
+    margin-bottom: 13px;
+}
+.team-section .team img {
+    height: 200px;
+    object-fit: cover;
+}
+.team-section .team h3 {
+    font-size: 15px;
+   
+    margin: 9px 0px;
+}
+.free-section .free h2 {
+    font-size: 20px;
+  
+    padding-bottom: 7px;
+}
+.free-section .free .btn-custom {
+    padding: 3px 13px;
+    font-size:14px;
+
+
+}
+.blog-section .container h1 {
+    font-size: 18px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+.blog-section .container .para {
+    font-size: 13px;
+   
+    width: 220px;
+    
+}
+.blog-section .container .span {
+ 
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.col-6 {
+    margin-bottom: 15px;
+}
+.blog-section .container .blog .blog1 ul li i {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    transform: translateY(-17px);
+}
+.blog-section .container .blog .blog1 p {
+    font-size: 12px;
+}
+.blog-section .container .blog .blog1 h3 {
+    font-size: 14px;
+    padding-top: 5px;
+}
+.blog-section .container .blog {
+   
+    height: 360px;
+}
+.blog-section .container .nidhi {
+   
+    height: 265px;
+}
+.banner-section img {
+    height: 236px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption h5 {
+   
+    font-size: 18px;
+}
+
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    width: 281px;
+    font-size: 11px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span {
+   
+   
+    bottom: -17px;
+    right: 39%;
+}
+
+footer .pad {
+    padding: 50px 32px;
+}
+.copywright-section p {
+   text-align: center;
+}
+.copywright-section ul li a {
+    
+    font-size: 10px;
+}
+ .gx-5 {
+    --bs-gutter-x:10px;
+}
+.navbar-nav {
+    background-color: #ebc5c5;
+}
+.nav-section .nav-item a {
+    color: #e51919!important;
+    font-size: 12px;
+}
+.nav-link {
+    display: inline-block;
+    padding:0px;
+}
+.nav-section .btn-custom, .nav-section .nav-item a:hover {
+     background-color:transparent;
+    color: white!important;
+     border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+}
+@media (min-width:576px) and (max-width:767.99px ){
+	.top-header p {
+		text-align: center;
+	}
+    .top-header .nav-item a {
+    
+    padding: 5px;
+}
+
+	.justify-content-end {
+    justify-content: center!important;
+}
+.top-header .nav-item a {
+		font-size:11px;
+	}
+	.top-header p {
+		font-size:11px;
+	}
+		.banner-section .banner h1 {
+		font-size: 26px;
+	}
+	.banner-section .banner h3 {
+    font-size: 17px;
+}
+.banner-section .banner p {
+    font-size: 10px;
+}
+.banner-section .banner .btn-m {
+	font-size: 10px;
+}
+.banner-section .banner .qr {
+   display: none;
+}
+.service-section .service {
+   
+    padding: 5px 5px;
+    margin-bottom: 20px;
+   
+    
+}
+.service-section .service {
+	width: 350px;
+    padding: 10px 20px;
+    margin: auto;
+    margin-bottom: 15px !important;
+}
+.bitcoin-section .bitcoin {
+    padding: 10px 20px;
+    width: 350px;
+    margin: auto;
+}
+.iphone-section .iphone2 span {
+   
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+
+.py-3 {
+	padding: 6px 0px !important;
+}
+.iphone-section .iphone2 h2 {
+    font-size: 13px;
+    margin-bottom:0px;
+    
+}
+.iphone-section .iphone2 .ni .sp {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: inline-block;
+    width: 50px;
+    
+}
+.iphone-section .iphone2 .sid h3{
+	 font-size: 12px;
+    margin-bottom: 3px;
+
+
+}
+.iphone-section .iphone2 .sid p{
+	margin-bottom:0;
+	    font-size: 8px;
+}
+.iphone-section .iphone1 .bcd {
+    
+    width: 120px;
+   
+}
+.iphone-section .iphone2 {
+	margin-top:10px;
+	    
+}
+.spider-section .spider .inner span {
+   
+    width: 30px;
+    height: 30px;
+    }
+    .spider-section .spider .inner span i {
+  
+    line-height: 30px;
+}
+.spider-section .spider .left-top{
+	    left: 130px;
+}
+.spider-section .spider .right-top{
+	    right: 130px;
+}
+.spider-section .spider .img-fluid {
+	width:40%;
+}
+.spider-section .spider .left-bottom {
+	left:140px;
+
+    bottom: -15px;
+}
+.spider-section .spider .right-bottom {
+	
+	    right: 140px;
+    bottom: -15px;
+}
+.spider-section .spider .right-middle {
+	right:70px;
+}
+.spider-section .spider .left-middle {
+	left:70px;
+}
+.spider-section .spider .inner p {
+   
+    font-size: 13px;
+}
+.spider-section .spider .inner span i {
+  
+    font-size: 12px;
+}
+.spider-section .spider .inner {
+    width: 100px;
+}
+.team-section .team img {
+    height: 240px;
+    object-fit: cover;
+}
+.team-section .team h3 {
+    font-size: 17px;
+  
+    margin: 13px 0px;
+}
+.free-section .free h2 {
+    font-size: 22px;
+  
+    padding-bottom: 10px;
+}
+.blog-section .container h1 {
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 2px;
+}
+.blog-section .container .para {
+    font-size: 15px;
+   
+    width: 327px;
+    
+}
+.blog-section .container .span {
+ 
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+.col-sm-6 {
+   
+    margin-bottom: 20px;
+}
+.blog-section .container .blog .blog1 ul li i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+}
+.blog-section .container .blog .blog1 h3 {
+    font-size: 13px;
+}
+.blog-section .container .blog .blog1 p {
+    font-size: 12px;
+}
+.blog-section .container .blog {
+   
+    height: 358px;
+}
+.blog-section .container .nidhi {
+   
+    height: 290px;
+}
+footer .pad {
+    padding: 50px 39px;
+}
+.navbar-nav {
+    background-color: #ebc5c5;
+}
+.nav-section .nav-item a {
+    color: #e51919!important;
+    font-size: 12px;
+}
+.nav-link {
+    display: inline-block;
+    padding:0px;
+}
+.nav-section .btn-custom, .nav-section .nav-item a:hover {
+     background-color:transparent;
+    color: white!important;
+     border-radius: 0px;
+}
+
+
+
+
+
+	
+}
+
+@media (min-width:768px) and (max-width:991.99px ){
+	.banner-section .banner h1 {
+		font-size: 26px;
+	}
+    .top-header .nav-item a {
+    
+    padding: 5px;
+}
+
+	.banner-section .banner h3 {
+    font-size: 17px;
+}
+.banner-section .banner p {
+    font-size: 10px;
+}
+.banner-section .banner .btn-m {
+	font-size: 10px;
+}
+.iphone-section .iphone2 span {
+   
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+
+.py-3 {
+	padding: 4px 0px !important;
+}
+.iphone-section .iphone2 h2 {
+    font-size: 19px;
+    margin-bottom:0px;
+    
+}
+.iphone-section .iphone2 .ni .sp {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 80px;
+    
+}
+.iphone-section .iphone2 .sid h3{
+	 font-size: 20px;
+    margin-bottom: 4px;
+
+
+}
+.iphone-section .iphone2 .sid p{
+	margin-bottom:0;
+	    font-size: 13px;
+}
+.iphone-section .iphone1 .bcd {
+    
+    width: 180px;
+   
+}
+.iphone-section .iphone2 {
+	margin-top:20px;
+	    
+}
+.spider-section .spider .inner span {
+   
+    width: 40px;
+    height: 40px;
+    }
+    .spider-section .spider .inner span i {
+  
+    line-height: 40px;
+}
+.spider-section .spider .left-top{
+	    left: 150px;
+}
+.spider-section .spider .right-top{
+	    right: 150px;
+}
+.spider-section .spider .img-fluid {
+	width:40%;
+}
+.spider-section .spider .left-bottom {
+	left:150px;
+}
+.spider-section .spider .right-bottom {
+	right:150px;
+}
+.blog-section .container .blog {
+    
+    height: 400px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    width: 477px;
+        font-size: 13px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span {
+   
+
+    width: 30px;
+    height: 30px;
+    line-height: 25px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span i {
+   
+
+   font-size:12px;
+}
+footer .pad {
+    padding: 50px 27px;
+}
+footer .col2 ul li p {
+  
+    font-size: 9px
+}
+footer .col2 h2 {
+    font-size: 14px;
+}
+footer .col3 h3 {
+    font-size: 14px;
+}
+footer .col3 ul li a {
+    font-size: 12px;
+}
+footer .col4 h4 {
+    font-size: 14px;
+}
+footer .col4 p {
+  
+    font-size: 12px;
+}
+.navbar-nav {
+    background-color: #ebc5c5;
+}
+.nav-section .nav-item a {
+    color: #e51919!important;
+    font-size: 12px;
+}
+.nav-link {
+    display: inline-block;
+    padding:0px;
+}
+.nav-section .btn-custom, .nav-section .nav-item a:hover {
+     background-color:transparent;
+    color: white!important;
+     border-radius: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+	
+}
+@media (min-width:992px) and (max-width:1199.99px ){
+	.iphone-section .iphone2 span {
+   
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+.iphone-section .iphone2 .sid p{
+	margin-bottom:0;
+}
+.py-3 {
+	padding: 4px 0px !important;
+}
+
+
+
+
+
+
+
+
+	
+}
